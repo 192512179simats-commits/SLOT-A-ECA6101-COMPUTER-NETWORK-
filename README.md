@@ -1,14 +1,4 @@
 # SLOT-A-ECA6101-COMPUTER-NETWORK-
-SIMATS ENGINEERING
-PORTFOLIO ASSESSMENT
-COMPUTER NETWORKS AND CYBERSECURITY
-QUESTION 23
-Compare different MFA methods and document their advantages, limitations, and applications in your portfolio.
-Student Name: Y. BALU PRASANTH
-Register No.: 192512179
-Course Code: ECA6101
-Assessment Question: 23
-Bloom's Taxonomy: BTL4 – Analyze
 1. Introduction
 Cybersecurity threats such as password theft, phishing, credential stuffing, brute-force attacks, and account takeover have made password-only authentication increasingly insufficient. A strong authentication mechanism is therefore required to verify that a user is genuinely authorized to access a system or application.
 Multi-Factor Authentication (MFA) is a security mechanism that requires a user to provide two or more independent authentication factors before access is granted. Instead of depending only on a password, MFA combines different types of evidence about the user's identity.
